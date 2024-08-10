@@ -80,11 +80,11 @@
 
         layer_macro {
             bindings = <
- &trans             &trans      &trans       &trans        &trans  &trans            &trans                                                  &trans  &trans  &trans  &trans  &trans  &trans  &trans
- &trans             &trans      &trans       &trans        &trans  &trans            &trans                                                  &trans  &trans  &trans  &trans  &trans  &trans  &trans
- &trans  &macro_select_all  &macro_cut  &macro_copy  &macro_paste  &trans            &trans  &trans  &trans                  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans
- &trans             &trans      &trans       &trans   &macro_save  &trans                            &trans                  &trans                  &trans  &trans  &trans  &trans  &trans  &trans
- &trans             &trans  &kp K_LOCK       &trans        &trans                    &trans  &trans  &trans                  &trans  &trans  &trans          &trans  &trans  &trans  &trans  &trans
+ &trans             &trans       &trans       &trans        &trans  &trans            &trans                                                  &trans  &trans  &trans  &trans  &trans  &trans  &trans
+ &trans             &trans       &trans       &trans        &trans  &trans            &trans                                                  &trans  &trans  &trans  &trans  &trans  &trans  &trans
+ &trans  &macro_select_all   &macro_cut  &macro_copy  &macro_paste  &trans            &trans  &trans  &trans                  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans
+ &trans             &trans       &trans       &trans   &macro_save  &trans                            &trans                  &trans                  &trans  &trans  &trans  &trans  &trans  &trans
+ &trans             &trans  &macro_save       &trans        &trans                    &trans  &trans  &trans                  &trans  &trans  &trans          &trans  &trans  &trans  &trans  &trans
             >;
         };
 

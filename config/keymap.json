@@ -35,11 +35,11 @@
         "&none",        "&none",        "&none",        "&none",   "&macro_ver",        "&none",                                     "&none",                          "&none",                                          "&none",      "&none",      "&none",  "&none",  "&none",  "&none",
         "&none",        "&none",        "&none",        "&none",        "&none",                                 "&none",  "&none",  "&none",                          "&none", "&bl BL_TOG",        "&rgb_ug RGB_TOG",           "&bl BL_INC", "&bl BL_DEC",  "&none",  "&none",  "&none"
     ], [
-       "&trans",            "&trans",     "&trans",      "&trans",       "&trans", "&trans",           "&trans",                                                             "&trans", "&trans", "&trans", "&trans", "&trans", "&trans", "&trans",
-       "&trans",            "&trans",     "&trans",      "&trans",       "&trans", "&trans",           "&trans",                                                             "&trans", "&trans", "&trans", "&trans", "&trans", "&trans", "&trans",
-       "&trans", "&macro_select_all", "&macro_cut", "&macro_copy", "&macro_paste", "&trans",           "&trans", "&trans", "&trans",                     "&trans", "&trans", "&trans", "&trans", "&trans", "&trans", "&trans", "&trans", "&trans",
-       "&trans",            "&trans",     "&trans",      "&trans",  "&macro_save", "&trans",                               "&trans",                     "&trans",                     "&trans", "&trans", "&trans", "&trans", "&trans", "&trans",
-       "&trans",            "&trans", "&kp K_LOCK",      "&trans",       "&trans",                     "&trans", "&trans", "&trans",                     "&trans", "&trans", "&trans",           "&trans", "&trans", "&trans", "&trans", "&trans"
+       "&trans",            "&trans",      "&trans",      "&trans",       "&trans", "&trans",           "&trans",                                                             "&trans", "&trans", "&trans", "&trans", "&trans", "&trans", "&trans",
+       "&trans",            "&trans",      "&trans",      "&trans",       "&trans", "&trans",           "&trans",                                                             "&trans", "&trans", "&trans", "&trans", "&trans", "&trans", "&trans",
+       "&trans", "&macro_select_all",  "&macro_cut", "&macro_copy", "&macro_paste", "&trans",           "&trans", "&trans", "&trans",                     "&trans", "&trans", "&trans", "&trans", "&trans", "&trans", "&trans", "&trans", "&trans",
+       "&trans",            "&trans",      "&trans",      "&trans",  "&macro_save", "&trans",                               "&trans",                     "&trans",                     "&trans", "&trans", "&trans", "&trans", "&trans", "&trans",
+       "&trans",            "&trans", "&macro_save",      "&trans",       "&trans",                     "&trans", "&trans", "&trans",                     "&trans", "&trans", "&trans",           "&trans", "&trans", "&trans", "&trans", "&trans"
     ]
   ]
 }
